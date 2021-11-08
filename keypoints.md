@@ -61,6 +61,7 @@ $\rightarrow$ スライド（講義内容や宿題），レポート，各回の
 
 - [昨年の中間テスト](exercise/exam1-2020.pdf)
   - [解答](exercise/exam1-2020_answer.pdf)
+  - 問1 (7) の2番目の問題で，選択肢B, Cに $n \mu$ が二つありますが，Cは $n \mu^2$ としてください．
 
 <!-- - [今年の中間テスト](exercise/exam1-2021.pdf)
   - [解答](exercise/exam1-2021_answer.pdf)
