@@ -32,7 +32,7 @@
 |5 |2021/11/01 |[大数の法則と中心極限定理](slide/ProbStat2021_05.pdf)|
 |6 |2021/11/08 |[母平均のt検定](slide/ProbStat2021_06.pdf)|
 |7 |2021/11/15 |[分散分析](slide/ProbStat2021_07.pdf)|
-|8 |2021/11/22 |中間テスト<br />[分散分析の補足](slide/ProbStat2021_08.pdf)|
+|8 |2021/11/22 |[中間テスト（問題）](exercise/exam1-2021.pdf)[（解答）](exercise/exam1-2021_answer.pdf)<br />[分散分析の補足](slide/ProbStat2021_08.pdf)|
 |9 |2021/11/29 |[標本調査と実験計画](slide/ProbStat2021_09.pdf)|
 |10|2021/12/06 |[母比率の検定と推定](slide/ProbStat2021_10.pdf)|
 |11|2021/12/13 |[カイ二乗検定](slide/ProbStat2021_11.pdf)|
