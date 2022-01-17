@@ -23,4 +23,3 @@
 e-Stat の家計調査データより抽出した実データです．
 
 - [multreg.csv](multreg.csv)
-
